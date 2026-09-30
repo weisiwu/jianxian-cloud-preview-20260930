@@ -1,0 +1,6 @@
+{
+  "ok": true,
+  "violations": [],
+  "textFiles": 14,
+  "scope": "Static forbidden-path/credential-pattern/SDK scan; not a guarantee against every possible secret"
+}
