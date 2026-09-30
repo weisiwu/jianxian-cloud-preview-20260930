@@ -1,0 +1,44 @@
+atlas.webp
+size: 640,320
+filter: Linear,Linear
+pma: false
+head_neutral
+bounds: 3,3,78,88
+head_focus
+bounds: 86,3,78,88
+head_blink
+bounds: 169,3,78,88
+head_attack
+bounds: 252,3,78,88
+torso
+bounds: 335,3,84,71
+pelvis
+bounds: 424,3,62,63
+tail
+bounds: 491,3,77,83
+neck_mane
+bounds: 573,3,60,63
+fore_near_upper
+bounds: 3,96,44,72
+fore_near_lower
+bounds: 52,96,38,66
+fore_near_paw
+bounds: 95,96,46,47
+fore_far_upper
+bounds: 146,96,46,65
+fore_far_lower
+bounds: 197,96,37,60
+fore_far_paw
+bounds: 239,96,45,47
+hind_near_upper
+bounds: 289,96,65,77
+hind_near_lower
+bounds: 359,96,44,71
+hind_near_paw
+bounds: 408,96,56,67
+hind_far_upper
+bounds: 469,96,63,77
+hind_far_lower
+bounds: 537,96,43,69
+hind_far_paw
+bounds: 3,178,53,66

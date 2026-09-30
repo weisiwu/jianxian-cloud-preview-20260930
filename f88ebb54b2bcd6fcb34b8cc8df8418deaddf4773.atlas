@@ -1,0 +1,64 @@
+atlas.webp
+size: 402,640
+filter: Linear,Linear
+pma: false
+head_neutral
+bounds: 1,1,93,83
+head_focus
+bounds: 95,1,93,82
+head_dim
+bounds: 189,1,92,82
+head_attack
+bounds: 282,1,93,82
+thorax
+bounds: 1,84,43,92
+abdomen
+bounds: 45,84,104,105
+leg_near_1_upper
+bounds: 150,84,96,74
+leg_near_1_middle
+bounds: 246,84,78,79
+leg_near_1_tip
+bounds: 325,84,63,85
+leg_far_1_upper
+bounds: 1,190,95,74
+leg_far_1_middle
+bounds: 97,190,78,75
+leg_far_1_tip
+bounds: 176,190,62,80
+leg_near_2_upper
+bounds: 238,190,99,76
+leg_near_2_middle
+bounds: 1,271,80,82
+leg_near_2_tip
+bounds: 82,271,58,86
+leg_far_2_upper
+bounds: 141,271,96,73
+leg_far_2_middle
+bounds: 238,271,88,79
+leg_far_2_tip
+bounds: 327,271,61,84
+leg_near_3_upper
+bounds: 1,358,104,76
+leg_near_3_middle
+bounds: 105,358,87,84
+leg_near_3_tip
+bounds: 193,358,63,89
+leg_far_3_upper
+bounds: 257,358,98,74
+leg_far_3_middle
+bounds: 1,447,93,81
+leg_far_3_tip
+bounds: 95,447,54,91
+leg_near_4_upper
+bounds: 150,447,92,73
+leg_near_4_middle
+bounds: 243,447,89,81
+leg_near_4_tip
+bounds: 333,447,62,85
+leg_far_4_upper
+bounds: 1,539,95,76
+leg_far_4_middle
+bounds: 97,539,89,83
+leg_far_4_tip
+bounds: 187,539,65,90
