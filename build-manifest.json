@@ -5,7 +5,7 @@
     "remoteCommit": "ea8017e013cd5c35ea680bb87a17c9a26797fa0f",
     "tree": "a5a69788d379bfd32c681e6e26954f9a6536b943",
     "version": "0.4.28",
-    "sourceDigest": "edc0510f487d280cf853b06ba043a0779ba52e1495c2783236b39311d5cbfc7b"
+    "sourceDigest": "631cf7af74edc15d246faf4ff15c9c80108893afbae96d3d29a90fbcbaafabde"
   },
   "resources": [
     {
@@ -1070,27 +1070,31 @@
     },
     {
       "path": "scripts/ops/build-canvas2d-ui-diagnostic.cjs",
-      "sha256": "e7a354cdda85dfd5e40b25e2d79d279b598ffd3c38c3acfd72300e859cb64a2c"
+      "sha256": "57d717d69c43367649f528400783f67d5914556e351053f838639457af901468"
     },
     {
       "path": "scripts/qa/canvas2d/browser-entry.cjs",
-      "sha256": "e05922bdee4b971a7d3e3aee6a1a2a785162fa5b730f60a0a2fd110f0abf02bb"
+      "sha256": "3a6a0ce76050b51f2db83fded0614b8e9bd0daf85e71bce1bdd1600bfebb2aad"
     },
     {
       "path": "scripts/qa/canvas2d/diagnostic.css",
       "sha256": "10dc82ebb58b2c27f82773219762442bdcbbb766e754a7c29e2eda065aae926f"
     },
     {
+      "path": "scripts/qa/canvas2d/frame-export.cjs",
+      "sha256": "8c9b3d9399b57166e937e96ff2ea4cd26331cb2c5f653cc99fada457b7a5766d"
+    },
+    {
       "path": "scripts/qa/canvas2d/index.html",
-      "sha256": "3e90abca0bd72d31c3afb9158b1a21b1007bbcf8a1b36b8c784c243cb5e406a1"
+      "sha256": "e336a70527fc4bc6cd89dfcb51e063eede87b724d774abd302ee886f714b592d"
     },
     {
       "path": "scripts/qa/canvas2d/model.cjs",
-      "sha256": "d9f081c61cfb56f0402996fd762a9df16518defe4828ba367d82cb283f4d12a9"
+      "sha256": "054d82a60320842db12a62973519f7c536baefa5755fd19110594b3086e62641"
     },
     {
       "path": "scripts/qa/canvas2d/README.md",
-      "sha256": "a4b706878022e2eef4ab2e62891e4f8f52610a5460c65a94e31bb6d9280b5c59"
+      "sha256": "eb2f5803d98f7ae7a32ef88ff7696091aa231098aec26abb1f80e18e6d42c281"
     },
     {
       "path": "src/app.js",
@@ -1553,6 +1557,7 @@
     "assets/runtime-manifest.json",
     "diagnostic:public",
     "scripts/qa/canvas2d/browser-entry.cjs",
+    "scripts/qa/canvas2d/frame-export.cjs",
     "scripts/qa/canvas2d/model.cjs",
     "src/content/catalog.js",
     "src/content/characters.js",
@@ -2085,13 +2090,13 @@
     },
     {
       "path": "diagnostic.js",
-      "bytes": 320628,
-      "sha256": "a989c16d94ed57473c7188bcca710a840529fb17c8d804f53cd2f52ad22257a5"
+      "bytes": 323288,
+      "sha256": "9b49230b711d5f9f8c1999d75d2d82fa7f9e0d602c2caf9d588b8b207e3cdfb2"
     },
     {
       "path": "index.html",
-      "bytes": 2206,
-      "sha256": "3e90abca0bd72d31c3afb9158b1a21b1007bbcf8a1b36b8c784c243cb5e406a1"
+      "bytes": 2636,
+      "sha256": "d7c4ededf5d95ac12ec611f47e53d507e24ef3d821e8c69f9f7ad59d98fdf2f2"
     }
   ]
 }
