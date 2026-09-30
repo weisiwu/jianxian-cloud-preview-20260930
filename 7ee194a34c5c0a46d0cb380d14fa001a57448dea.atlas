@@ -1,0 +1,44 @@
+atlas.webp
+size: 640,640
+filter: Linear,Linear
+pma: false
+head_neutral
+bounds: 122,3,138,155
+head_focus
+bounds: 265,3,137,155
+head_blink
+bounds: 407,3,138,155
+head_attack
+bounds: 3,170,137,155
+torso
+bounds: 3,330,131,148
+pelvis
+bounds: 397,483,145,108
+hair_back
+bounds: 3,3,114,162
+robe_tail
+bounds: 217,483,93,137
+arm_near_upper
+bounds: 538,330,99,140
+arm_near_lower
+bounds: 312,330,105,142
+arm_far_upper
+bounds: 133,483,79,137
+arm_far_lower
+bounds: 139,330,81,147
+leg_near_upper
+bounds: 292,170,82,153
+leg_near_lower
+bounds: 225,330,82,143
+leg_far_upper
+bounds: 379,170,82,151
+leg_far_lower
+bounds: 315,483,77,136
+boot_near
+bounds: 422,330,111,140
+boot_far
+bounds: 3,483,125,139
+shoulder_near
+bounds: 145,170,142,154
+necklace
+bounds: 466,170,112,149
