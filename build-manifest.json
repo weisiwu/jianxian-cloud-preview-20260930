@@ -5,7 +5,7 @@
     "remoteCommit": "ea8017e013cd5c35ea680bb87a17c9a26797fa0f",
     "tree": "a5a69788d379bfd32c681e6e26954f9a6536b943",
     "version": "0.4.28",
-    "sourceDigest": "631cf7af74edc15d246faf4ff15c9c80108893afbae96d3d29a90fbcbaafabde"
+    "sourceDigest": "569dc9cd839acf5ff67f02566393c4accd944e81bbc0c77507f740ae44934121"
   },
   "resources": [
     {
@@ -1074,7 +1074,7 @@
     },
     {
       "path": "scripts/qa/canvas2d/browser-entry.cjs",
-      "sha256": "3a6a0ce76050b51f2db83fded0614b8e9bd0daf85e71bce1bdd1600bfebb2aad"
+      "sha256": "41e87c614053dabb3349afad9577a3d87fabecb24e35bf0c5e3d99062d651cf2"
     },
     {
       "path": "scripts/qa/canvas2d/diagnostic.css",
@@ -1086,7 +1086,7 @@
     },
     {
       "path": "scripts/qa/canvas2d/index.html",
-      "sha256": "e336a70527fc4bc6cd89dfcb51e063eede87b724d774abd302ee886f714b592d"
+      "sha256": "b7f60473cf122f5ea779bdcd7164e4c43e52c2ccb8189a022c2f21431c7f63b2"
     },
     {
       "path": "scripts/qa/canvas2d/model.cjs",
@@ -1094,7 +1094,7 @@
     },
     {
       "path": "scripts/qa/canvas2d/README.md",
-      "sha256": "eb2f5803d98f7ae7a32ef88ff7696091aa231098aec26abb1f80e18e6d42c281"
+      "sha256": "3bab76134f1e16ea0dad906679bfb17152b65c74737c5ca046d94f5e27071349"
     },
     {
       "path": "src/app.js",
@@ -2090,13 +2090,13 @@
     },
     {
       "path": "diagnostic.js",
-      "bytes": 323288,
-      "sha256": "9b49230b711d5f9f8c1999d75d2d82fa7f9e0d602c2caf9d588b8b207e3cdfb2"
+      "bytes": 323681,
+      "sha256": "33de2bf7f872355e8216f3730b6ac69602005bc5d42a53bfc5d51e476e57004f"
     },
     {
       "path": "index.html",
-      "bytes": 2636,
-      "sha256": "d7c4ededf5d95ac12ec611f47e53d507e24ef3d821e8c69f9f7ad59d98fdf2f2"
+      "bytes": 3064,
+      "sha256": "7da10049408ea52f251a4589bd98c2ad2bb89b4356f32a3342bf2a56229ec0ac"
     }
   ]
 }
